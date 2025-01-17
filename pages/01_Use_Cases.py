@@ -108,7 +108,7 @@ def main():
             <script type="module" src="https://unpkg.com/feazy-plugin/dist/feazy-chat-component.es.js"></script>
             <chat-component 
                 licensing-key=""
-                promptId="YOUR_NEW_USE_CASE_PROMPT_ID"
+                promptId="67ff36b3-ae42-46bb-b7b9-d594f16d5861"
                 isDialogVisible="true">
             </chat-component>
         </div>
