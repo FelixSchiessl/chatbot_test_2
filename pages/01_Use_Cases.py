@@ -109,7 +109,8 @@ def main():
             <chat-component 
                 licensing-key=""
                 promptId="67ff36b3-ae42-46bb-b7b9-d594f16d5861"
-                isDialogVisible="true">
+                isDialogVisible="true"
+                showDataProtection="true">
             </chat-component>
         </div>
     </body>
